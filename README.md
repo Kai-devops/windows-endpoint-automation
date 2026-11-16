@@ -133,4 +133,4 @@ These scripts install updates, change system settings, and in one case delete fi
 
 Created and owned by Cáden/Kai Samputh. GitHub: [Kai-devops](https://github.com/Kai-devops)
 
-Copyright (c) 2026 Cáden/Kai Samputh. All rights reserved.
+Copyright (c) 2026 Cáden/Kai Samputh.
